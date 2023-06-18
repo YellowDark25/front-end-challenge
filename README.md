@@ -31,6 +31,6 @@ Este desafio tem como objetivo te avaliar como desenvolvedor Front-end: React, o
 
 • Deve ser usado React;
 
-• Pode utilizar qualquer library de CSS e CSS-in-JS. (recomendamos Material UI ou Styled Components. Pode fazer com CSS clássico também)
+• Pode utilizar qualquer library para estilização (Material UI/Styled Components...);
  
 • Deve conter duas rotas: a rota inicial da página de busca, e a rota que exibe o perfil do usuário pesquisado;
